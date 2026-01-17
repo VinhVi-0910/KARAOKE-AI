@@ -1,0 +1,52 @@
+{
+  "session_id": "demo_user_20260117_075751",
+  "username": "demo_user",
+  "start_time": "2026-01-17T07:57:51.977379",
+  "num_songs": 3,
+  "average_score": 0.0,
+  "average_accuracy": 0.0,
+  "results": [
+    {
+      "song_id": "demo_A3",
+      "song_title": "Demo Song A3",
+      "timestamp": "2026-01-17T07:58:18.786038",
+      "score": 0.0,
+      "accuracy": 0.0,
+      "stability": 0.0,
+      "duration": 3.0,
+      "notes": {
+        "pitch_accuracy": "Pitch accuracy needs improvement. Listen carefully to the backing track.",
+        "stability": "Work on maintaining stable pitch.",
+        "overall": "Keep practicing! You'll improve with time."
+      }
+    },
+    {
+      "song_id": "demo_B3",
+      "song_title": "Demo Song B3",
+      "timestamp": "2026-01-17T07:58:38.690875",
+      "score": 0.0,
+      "accuracy": 0.0,
+      "stability": 0.0,
+      "duration": 3.0,
+      "notes": {
+        "pitch_accuracy": "Pitch accuracy needs improvement. Listen carefully to the backing track.",
+        "stability": "Work on maintaining stable pitch.",
+        "overall": "Keep practicing! You'll improve with time."
+      }
+    },
+    {
+      "song_id": "demo_C#4",
+      "song_title": "Demo Song C#4",
+      "timestamp": "2026-01-17T07:58:59.289519",
+      "score": 0.0,
+      "accuracy": 0.0,
+      "stability": 0.0,
+      "duration": 3.0,
+      "notes": {
+        "pitch_accuracy": "Pitch accuracy needs improvement. Listen carefully to the backing track.",
+        "stability": "Work on maintaining stable pitch.",
+        "overall": "Keep practicing! You'll improve with time."
+      }
+    }
+  ]
+}
